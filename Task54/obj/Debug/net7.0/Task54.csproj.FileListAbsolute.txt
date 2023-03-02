@@ -1,0 +1,15 @@
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\obj\Debug\net7.0\Task54.csproj.AssemblyReference.cache
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\obj\Debug\net7.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\obj\Debug\net7.0\Task54.AssemblyInfoInputs.cache
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\obj\Debug\net7.0\Task54.AssemblyInfo.cs
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\obj\Debug\net7.0\Task54.csproj.CoreCompileInputs.cache
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\bin\Debug\net7.0\Task54.exe
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\bin\Debug\net7.0\Task54.deps.json
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\bin\Debug\net7.0\Task54.runtimeconfig.json
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\bin\Debug\net7.0\Task54.dll
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\bin\Debug\net7.0\Task54.pdb
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\obj\Debug\net7.0\Task54.dll
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\obj\Debug\net7.0\refint\Task54.dll
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\obj\Debug\net7.0\Task54.pdb
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\obj\Debug\net7.0\Task54.genruntimeconfig.cache
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task54\obj\Debug\net7.0\ref\Task54.dll

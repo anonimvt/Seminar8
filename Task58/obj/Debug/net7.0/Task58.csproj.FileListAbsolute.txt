@@ -1,0 +1,15 @@
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\bin\Debug\net7.0\Task58.exe
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\bin\Debug\net7.0\Task58.deps.json
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\bin\Debug\net7.0\Task58.runtimeconfig.json
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\bin\Debug\net7.0\Task58.dll
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\bin\Debug\net7.0\Task58.pdb
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\obj\Debug\net7.0\Task58.csproj.AssemblyReference.cache
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\obj\Debug\net7.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\obj\Debug\net7.0\Task58.AssemblyInfoInputs.cache
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\obj\Debug\net7.0\Task58.AssemblyInfo.cs
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\obj\Debug\net7.0\Task58.csproj.CoreCompileInputs.cache
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\obj\Debug\net7.0\Task58.dll
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\obj\Debug\net7.0\refint\Task58.dll
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\obj\Debug\net7.0\Task58.pdb
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\obj\Debug\net7.0\Task58.genruntimeconfig.cache
+D:\Файлы\Проекты Си-Шарп\Seminars\Seminar8\Task58\obj\Debug\net7.0\ref\Task58.dll
